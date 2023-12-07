@@ -31,6 +31,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# Theme Settings
+locale: "en-gb"
+logo: "/assets/img/branding/TextFlatIconAbove_Orig.svg"
+skin: "/assets/css/skins/dark.css"
+date_format: "%Y-%m-%d"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
