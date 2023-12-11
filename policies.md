@@ -3,6 +3,7 @@ layout: page
 title: Policies
 permalink: /policies/
 ---
+# Policies
 These policies are effective from **November 2023**.
 
 This is my personal website written and edited by me. Your use of this website, in any and all forms, constitutes an acceptance of these terms and policies.

@@ -33,9 +33,47 @@ plugins:
 
 # Theme Settings
 locale: "en-gb"
-logo: "/assets/img/branding/TextFlatIconAbove_Orig.svg"
+logo: "/assets/img/branding/Site-Logo.svg"
 skin: "/assets/css/skins/dark.css"
 date_format: "%Y-%m-%d"
+
+# Taxonomy pages
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+
+# Site Author
+author:
+  name: Smatt
+  picture: /assets/img/branding/IconOnly_Orig.svg
+  email:
+  links:
+    - title: Twitter
+      url: https://twitter.com/smattscode
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/smattscode
+      icon: fab fa-instagram
+    - title: Pinterest
+      url: https://pinterest.com/smattscode
+      icon: fab fa-pinterest
+    - title: GitHub
+      url: https://github.com/smattscode
+      icon: fab fa-github-square
+
+# Footer Links
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/smattscode
+    icon: fab fa-twitter-square
+  - title: Instagram
+    url: https://instagram.com/smattscode
+    icon: fab fa-instagram
+  - title: Pinterest
+    url: https://pinterest.com/smattscode
+    icon: fab fa-pinterest
+  - title: GitHub
+    url: https://github.com/smattscode
+    icon: fab fa-github-square
 
 # Exclude from processing.
 # The following items will not be processed, by default.
