@@ -16,6 +16,6 @@ Over the years one thing has always been true, it is very rare that you are the 
 
 Throughout my career I have always graciously used the wisdom of others.  Be that in person, from blogs or that fountain of knowledge [Stack Overflow](https://stackoverflow.com/).  I have also tried to pay it forward by sharing my experiences and knowledge with those around me, either at work or techie meetups.
 
-That's what I want this blog to be.  A place for me to share my knowledge and experiences (the good, the bad, and purely for entertainmet the ugly!) with a bigger audience and another resource for you to find fixes for your DB (and other techie) problems.
+That's what I want this blog to be.  A place for me to share my knowledge and experiences (the good, the bad, and purely for entertainment the ugly!) with a bigger audience and another resource for you to find fixes for your DB (and other techie) problems.
 
-If I'm not helping you fix a problem, maybe I can provide some light relief by giving you a laugh at my latest mishap!
+If I'm not helping you fix a problem, maybe I can give you a laugh at my latest mishap!
