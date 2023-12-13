@@ -31,4 +31,4 @@ The owner of this website DOES NOT use any analytics Google or otherwise.
 Posts on this site may include embedded content (e.g., videos, images, tweet, etc.). Embedded content from other websites behave in the same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interactions with that embedded content.
 
 # Disclosure Policy
-I do not make any money through this website. Any compensation I recieve will not influence the content, posts, or opinions expressed on this website. Any views or opinions expressed are my own.  I will not recommend a product for the sake of compensation or monetary gain. I will not write anything other than my own opinions and advice.
+I do not make any money through this website. Any compensation I receive will not influence the content, posts, or opinions expressed on this website. Any views or opinions expressed are my own.  I will not recommend a product for the sake of compensation or monetary gain. I will not write anything other than my own opinions and advice.
