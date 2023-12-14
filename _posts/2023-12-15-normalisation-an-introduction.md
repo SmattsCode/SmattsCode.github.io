@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Normalisation: An Intro"
-date:   2023-12-13
+date:   2023-12-15
 categories: SQL
 tags: 
   - Normalisation
