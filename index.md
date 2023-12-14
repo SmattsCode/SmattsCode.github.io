@@ -8,4 +8,3 @@ Hi I'm Smatt. I'm a firm believer of not reinventing the wheel unless there is a
 
 ## Enjoy My Latest Posts...
 
-...except there aren't any yet.
